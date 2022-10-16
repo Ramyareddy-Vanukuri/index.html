@@ -1,0 +1,19 @@
+<html>
+    <style>
+p{
+   font-family:bold ;
+    
+}
+h1{
+    text-align: centre;
+    color: darkgreen;
+}
+</style>
+    <h1>The Life of a Farmer</h1>
+    <body>
+        <p>The farmer is the back bone of the country. Without a farmer
+         there is no food for us and no one can lead a happy life.
+        </p>
+          <img src="https://img.etimg.com/thumb/msid-87640133,width-650,imgsize-218090,,resizemode-4,quality-100/farmers-scheme-istock.jpg"
+    </body>
+</html>
